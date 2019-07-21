@@ -105,5 +105,7 @@
     "workbench.startupEditor": "newUntitledFile",
     "[markdown]": {
         "editor.quickSuggestions": true
-    }
+    },
+    "emmet.triggerExpansionOnTab": true, // enable tab to expanse emmet tags
+    "blade.format.enable": true,         // if you would like to enable blade format
 }
